@@ -18,6 +18,6 @@ exercício 8: PRONTO
 
 exercício 9: PRONTO
 
-exercício 10: PENDENTE
+exercício 10: PRONTO
 
-desafio opcional: PENDENTE
+desafio opcional: PRONTO
