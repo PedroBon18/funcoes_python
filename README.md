@@ -16,7 +16,7 @@ exercício 7: PRONTO
 
 exercício 8: PRONTO
 
-exercício 9: PENDENTE
+exercício 9: PRONTO
 
 exercício 10: PENDENTE
 
